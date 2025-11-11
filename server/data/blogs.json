@@ -1,0 +1,46 @@
+[
+  {
+    "_id": "aon7egxqb",
+    "title": "go",
+    "description": "go",
+    "image": "/uploads/1762795474837-Untitledc.png",
+    "user": {
+      "_id": "abkzx0rhg",
+      "name": "Pink hoodie"
+    },
+    "createdAt": "2025-11-10T09:50:01.903Z"
+  },
+  {
+    "_id": "1ri0q3y4r",
+    "title": "hey",
+    "description": "hey",
+    "image": "/uploads/1762790500912-DALLÂ·E_2025-01-17_11.47.29_-_A_modern_and_sleek_image_showcasing_a_laptop,_tablet,_and_smartphone_with_code_displayed_on_their_screens._The_laptop_screen_shows_a_full_IDE_interfac.webp",
+    "user": {
+      "_id": "abkzx0rhg",
+      "name": "Pink hoodie"
+    },
+    "createdAt": "2025-11-10T16:01:42.376Z"
+  },
+  {
+    "_id": "g5b5jdqly",
+    "title": "hi",
+    "description": "hi",
+    "image": "https://images.pexels.com/photos/34476648/pexels-photo-34476648.jpeg?_gl=1*17rnubg*_ga*OTA3ODUxNTQ5LjE3MjYwMzI4ODg.*_ga_8JE65Q40S6*czE3NjI0NDAzMTMkbzE2JGcwJHQxNzYyNDQwMzEzJGo2MCRsMCRoMA..",
+    "user": {
+      "_id": "abkzx0rhg",
+      "name": "Pink hoodie"
+    },
+    "createdAt": "2025-11-10T16:08:47.826Z"
+  },
+  {
+    "_id": "9hnhqg767",
+    "title": "you",
+    "description": "you",
+    "image": "/uploads/1762795747393-Screenshot_2024-10-14_125752.png",
+    "user": {
+      "_id": "abkzx0rhg",
+      "name": "Pink hoodie"
+    },
+    "createdAt": "2025-11-10T17:29:07.445Z"
+  }
+]
